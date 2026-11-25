@@ -18,7 +18,7 @@ const REGISTRO = {
   autoridadApostilla: "INGRID TABATA ILLANES ARTEAGA",
   selloTimbre: "",
   firmaTipo: "FIRMADO DIGITALMENTE",
-  codigoSeguridad: "56BG6J7I5Z",
+  codigoSeguridad: "LL4MS5VZMT",
   fechaHoraFirma: "25 NOV 2026 · 14:15:18 (UTC−04:00)",
   institucion: "Ministerio de Relaciones Exteriores",
   pdfUrl: "./pdfs/21671288.pdf"
